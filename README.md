@@ -17,7 +17,7 @@ The following unsupervised learning algorithms were used in this project:
 
 1. **Value Iteration**
 2. **Policy Iteration**
-3. **Q-Learning**
+3. **Reinforcement Learning: Q-Learning**
 
 
 ## Results
