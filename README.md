@@ -1,4 +1,4 @@
-# Unsupervised Learning Algorithms: A Hands-On Exploration
+# Reinforcement Learning Algorithms: A Hands-On Exploration
 
 This project explores different methods of solving Markov Decision Processes (MDP) problems. One MDP is slected such that it has a small number of states while the other has a large number of states.
 Both MDPs are solved using 3 different algorithms. 
